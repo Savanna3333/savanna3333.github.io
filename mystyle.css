@@ -1,13 +1,14 @@
 html {
-  background: #CCCCFF;}
-body { 
-  text-align: center;}
-h1 { 
-  color: #E98596;}
+  background: #CCCCFF;
 }
+body { 
+  text-align: center;
+}
+h1 { 
+  color: #E98596;
+}
+
 ul.b {
   list-style-type: square;
 }
-</style>
-</head>
-<body>
+
