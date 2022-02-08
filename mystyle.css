@@ -6,7 +6,9 @@ body {
 }
 h1 { 
   color: #E98596;
+	border:dashed black;
 }
+
 
 ul {
   list-style-type: none;
