@@ -13,13 +13,15 @@ h1 {
 ul {
   list-style-type: none;
 }
+h1{
 	 text-align:center;
 	 color:#00008B;
 	 text-decoration: underline;
 	 font-size: 70px;
 }
 img{
-	
+	height: 30%;
+	width 25%;
 	border: 10px solid #00008B; 
 	}
 h2{
@@ -28,4 +30,5 @@ h2{
 h3{
 	color:#00008B;
 	text-align:center;
+	text-decoration: underline;
 }
