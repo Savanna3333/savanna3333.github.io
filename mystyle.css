@@ -32,16 +32,4 @@ h3{
 	text-align:center;
 	text-decoration: underline;
 }
-<script>
-var i = 0;
-var txt = 'Project Links.';
-var speed = 50;
-
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}
-</script>
+<marquee behavior="scroll" direction="down" scrollamount="1" height="100px">langzaam omlaag</marquee>
